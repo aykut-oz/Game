@@ -1,9 +1,9 @@
-﻿using GalaxyReederGame.Interfaces.Class;
+﻿using Game.Interfaces.Class;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GalaxyReederGame
+namespace Game
 {
     class Campaign: ICampaign
     {

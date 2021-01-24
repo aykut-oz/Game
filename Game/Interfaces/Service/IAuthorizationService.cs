@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GalaxyReederGame.Interfaces.Service
+namespace Game.Interfaces.Service
 {
     interface IAuthorizationService
     {

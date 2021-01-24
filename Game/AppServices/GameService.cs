@@ -1,9 +1,9 @@
-﻿using GalaxyReederGame.Interfaces.Service;
+﻿using Game.Interfaces.Service;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GalaxyReederGame.AppServices
+namespace Game.AppServices
 {
     class GameService : IGameService
     {

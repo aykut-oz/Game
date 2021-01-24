@@ -1,10 +1,9 @@
-﻿using GalaxyReederGame.AppServices;
-using GalaxyReederGame.Interfaces;
-using GalaxyReederGame.Interfaces.Service;
-using GalaxyReederGame.Models;
+﻿using Game.AppServices;
+using Game.Interfaces;
+using Game.Interfaces.Service;
 using System;
 
-namespace GalaxyReederGame
+namespace Game
 {
     class Program
     {

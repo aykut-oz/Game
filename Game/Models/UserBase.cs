@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GalaxyReederGame.Models
+namespace Game.Models
 {
     public abstract class UserBase
     {

@@ -1,9 +1,9 @@
-﻿using GalaxyReederGame.Interfaces;
+﻿using Game.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GalaxyReederGame.AppServices
+namespace Game.AppServices
 {
     class CampaignService : ICampaignService
     {

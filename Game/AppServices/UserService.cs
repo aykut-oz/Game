@@ -1,11 +1,11 @@
-﻿using GalaxyReederGame.Interfaces;
-using GalaxyReederGame.Interfaces.Class;
-using GalaxyReederGame.Models;
+﻿using Game.Interfaces;
+using Game.Interfaces.Class;
+using Game.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GalaxyReederGame.AppServices
+namespace Game.AppServices
 {
     class UserService : IUserService
     {

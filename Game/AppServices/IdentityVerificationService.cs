@@ -1,11 +1,11 @@
-﻿using GalaxyReederGame.Interfaces;
+﻿using Game.Interfaces;
 using System;
 using System.Globalization;
 using System.IO;
 using System.Net;
 using System.Xml;
 
-namespace GalaxyReederGame.AppServices
+namespace Game.AppServices
 {
     public class IdentityVerificationService : IIdentityVerificationService
     {
